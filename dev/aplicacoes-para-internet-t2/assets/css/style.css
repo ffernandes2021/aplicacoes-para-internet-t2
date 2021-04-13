@@ -1,0 +1,289 @@
+body, 
+header nav, 
+h4, 
+article > div, 
+article > h5, 
+div h6:nth-of-type(2), 
+aside, 
+input, 
+article > nav, 
+aside div div { 
+    padding: 20px !important;
+}
+
+.row { 
+    margin-left: 0;
+    margin-right: 0;
+}
+
+figure,
+main { 
+    background-color: #FFFFD9;
+}
+
+figure { 
+    padding: 40px !important;
+}
+
+img { 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header nav, 
+h4, 
+article > h5, 
+div h6:nth-of-type(2),
+footer {
+    background-color: #302A2D;
+}
+
+ul, 
+h4, 
+div > h5, 
+p, 
+article > h5, 
+h6 { 
+    margin-bottom: 0;
+}
+
+header nav ul, 
+main > div, 
+div article,
+footer div div { 
+    padding-left: 0 !important;
+}
+
+header nav ul, 
+div h6:nth-of-type(2), 
+aside > div { 
+    text-align: center;
+}
+
+header nav ul li { 
+    display: inline-block;
+}
+
+header nav ul li { 
+    padding-left: 10px;
+}
+
+header nav ul li { 
+    padding-right: 10px;
+}
+
+header nav ul li a, 
+h4, 
+button, 
+article > h5, 
+div h6:nth-of-type(2),
+footer { 
+    color: #FFF !important;
+}
+
+a:hover, 
+h4, 
+h5, 
+button:hover, 
+h6 {  
+    font-weight: bold;
+}
+
+a:focus, 
+a:hover { 
+    text-decoration: none;
+}
+
+main,
+p, 
+div h6:nth-of-type(2), 
+aside article, 
+aside div div,
+footer { 
+    margin-top: 20px;
+}
+
+main > div,
+div article,
+footer div div { 
+    padding-right: 0 !important;    
+}
+
+@media (min-width: 1200px) {
+    main > div {
+        border-right: solid 20px #FFF;
+    }
+    div article:nth-of-type(2) {
+        border-right: solid 10px #FFF;
+    }
+    div article:nth-of-type(3) {
+        border-left: solid 10px #FFF;
+    }    
+}
+
+@media (max-width: 1199px) {
+    main > div, 
+    div article:nth-of-type(2) { 
+        padding-right: 0 !important;
+    }
+    div article:nth-of-type(3) { 
+        padding-left: 0;
+    }
+    aside {
+        border-top: solid 20px #FFF;
+    }
+}
+
+h4 { 
+    font-size: 23px;
+}
+
+h4, 
+div > h5, 
+article > h5, 
+div h6:first-of-type { 
+    margin-top: 0;
+}
+
+div > h5, 
+p, 
+div h6:first-of-type, 
+div nav ul li a, 
+article nav ul li a, 
+div a { 
+    color: #302A2D !important;
+}
+
+h5 { 
+    font-size: 20px;
+}
+
+p { 
+    text-align: justify;
+}
+
+article div div { 
+    padding: 20px 0 37px 0;
+}
+
+button { 
+    background-color: #DF1400;
+    float: right;
+    padding: 10px;
+}
+
+button, 
+input { 
+    border: 0 !important;
+}
+
+button,
+footer div div:first-of-type {
+    font-size: 12px;
+}
+
+button:focus { 
+    outline: none;
+}
+
+button:hover { 
+    background-color: #CC0000;
+}
+
+div article:nth-of-type(2),
+div article:nth-of-type(3) { 
+    border-top: solid 20px #FFF;
+}
+
+h6 { 
+    font-size: 17px;
+}
+
+div nav {
+    padding: 20px 20px 0 20px;
+}
+
+div nav ul, 
+article nav ul { 
+    padding-left: 20px;
+}
+
+div nav ul li:first-of-type, 
+div nav ul li:nth-of-type(2),
+div nav ul li:nth-of-type(3),
+div nav ul li:nth-of-type(4),
+div nav ul li:nth-of-type(5),
+article > nav ul li:first-of-type, 
+article > nav ul li:nth-of-type(2), 
+article > nav ul li:nth-of-type(3), 
+article > nav ul li:nth-of-type(4), 
+article > nav ul li:nth-of-type(5) { 
+    margin-bottom: 5px;
+}
+
+div nav ul li a:hover, 
+article nav ul li a:hover, 
+aside div div a:hover {     
+    color: #000 !important;
+}
+
+input { 
+    box-shadow: none !important;
+    border-radius: initial !important;
+}
+
+article > nav, 
+aside div div { 
+    background-color: #FFF;
+}
+
+aside div div:first-of-type, 
+aside div div:nth-of-type(3) { 
+    border-right: solid 10px #FFFFD9;
+}
+
+aside div div:nth-of-type(2), 
+aside div div:nth-of-type(4) { 
+    border-left: solid 10px #FFFFD9;
+}
+
+@media (min-width: 992px) and (max-width: 1199px) { 
+    aside div div:nth-of-type(2) {
+        border-right: solid 10px #FFFFD9;
+    }
+    aside div div:nth-of-type(3) {
+        border-left: solid 10px #FFFFD9;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    aside div div:nth-of-type(2) {        
+        border-right-width: 0;
+    }
+    aside div div:nth-of-type(3) {        
+        border-left-width: 0;
+    }    
+}
+
+@media (max-width: 767px) {
+    aside div div:first-of-type,
+    aside div div:nth-of-type(3) {
+        border-right-width: 0;
+    }
+    aside div div:nth-of-type(2),
+    aside div div:nth-of-type(4) {
+        border-left-width: 0;
+    }    
+}
+
+footer {
+    padding: 20px 18px 20px 20px;
+}
+
+footer div div:nth-of-type(2) {
+    text-align: right;
+}
+
+div a:first-of-type img {
+    vertical-align: 1px;
+}
