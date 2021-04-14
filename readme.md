@@ -4,7 +4,7 @@ Olá, aluno(a),
 
 Você foi contratado para desenvolver um portal de notícias baseado no layout abaixo.
 
-![layout!](https://bb.cruzeirodosulvirtual.com.br/bbcswebdav/courses/CVCS_EAD_1220262/img/layout.jpg)
+![layout!](https://github.com/ffernandes2021/aplicacoes-para-internet-t2/blob/master/readme.jpg)
 
 Neste projeto, deves atentar às seguintes condições:
 
