@@ -8,7 +8,7 @@ Neste projeto, deves atentar-se às seguintes condições:
 
 1. O site deves utilizar **Semantic Elements** do HTML5 em sua estrutura;
 2. O site deve ser **responsivo**. Para isto você poderá utilizar alguma das técnicas:
- 1. CSS float property: **link** 
+  1. CSS float property: **link** 
     2. CSS grid: **link**
     3. CSS flexbox: **link*
 3. Podes utilizar (caso prefira) um CSS framework, como **Bootstrap**, **W3.CSS**, ou outro que lhe for familiar, seguindo neste caso sua própria notação para tags, classes, entre outros elementos.
