@@ -1,5 +1,4 @@
 # aplicacoes-para-internet-t2
-Resolução de exercício de aula: Desenvolvimento de uma web page, responsiva, semântica e validada pelos validadores da W3C.
 
 Olá, aluno(a),
 
