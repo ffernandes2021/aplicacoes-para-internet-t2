@@ -4,6 +4,8 @@ Olá, aluno(a),
 
 Você foi contratado para desenvolver um portal de notícias conforme o layout abaixo.
 
+![layout!](https://bb.cruzeirodosulvirtual.com.br/bbcswebdav/courses/CVCS_EAD_1220262/img/layout.jpg)
+
 Neste projeto, deves atentar-se às seguintes condições:
 
 1. O site deves utilizar **Semantic Elements** do HTML5 em sua estrutura;
