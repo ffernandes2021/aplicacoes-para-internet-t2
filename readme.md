@@ -4,7 +4,7 @@ Olá, aluno(a),
 
 Você foi contratado para desenvolver um portal de notícias baseado no layout abaixo.
 
-![layout!](https://github.com/ffernandes2021/aplicacoes-para-internet-t2/blob/master/readme.jpg)
+![layout!](aplicacoes-para-internet-t2/assets/img/readme.jpg)
 
 Neste projeto, deves atentar às seguintes condições:
 
