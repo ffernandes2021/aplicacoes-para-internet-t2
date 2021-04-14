@@ -33,6 +33,6 @@ Para ajudá-los nesta empreitada deixo alguns links:
 
 Lembrem-se que esta atividade não é pontuada, no entanto, muito importante para o desenvolvimento do conhecimento sobre o assunto.
 
-Este fórum estará aberto, entre os dias: DD/MM à DD/MM.
+Este fórum estará aberto, entre os dias: D/MM à DD/MM.
 
 Vamos lá!
