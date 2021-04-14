@@ -6,7 +6,7 @@ Você foi contratado para desenvolver um portal de notícias baseado no layout a
 
 ![layout!](https://bb.cruzeirodosulvirtual.com.br/bbcswebdav/courses/CVCS_EAD_1220262/img/layout.jpg)
 
-Neste projeto, deves atentar-se às seguintes condições:
+Neste projeto, deves atentar às seguintes condições:
 
 1. O site deves utilizar **Semantic Elements** do HTML5 em sua estrutura;
 2. O site deve ser **responsivo**. Para isto você poderá utilizar alguma das técnicas:
