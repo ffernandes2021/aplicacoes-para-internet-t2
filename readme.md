@@ -6,7 +6,7 @@ Você foi contratado para desenvolver um portal de notícias baseado no layout a
 
 ![layout!](aplicacoes-para-internet-t2/assets/img/readme.jpg)
 
-Neste projeto, deves atentar às seguintes condições:
+Neste projeto, deves atentar-se às seguintes condições:
 
 1. O site deves utilizar **Semantic Elements** do HTML5 em sua estrutura;
 2. O site deve ser **responsivo**. Para isto você poderá utilizar alguma das técnicas:
