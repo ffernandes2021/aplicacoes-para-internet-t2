@@ -8,7 +8,7 @@ Você foi contratado para desenvolver um portal de notícias baseado no layout a
 
 Neste projeto, deves atentar-se às seguintes condições:
 
-1. O site deves utilizar **Semantic Elements** do HTML5 em sua estrutura;
+1. No site deves utilizar **Semantic Elements** do HTML5 em sua estrutura;
 2. O site deve ser **responsivo**. Para isto você poderá utilizar alguma das técnicas:
     - CSS float property: [**link**](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats) 
     - CSS grid: [**link**](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Grid_Layout)
