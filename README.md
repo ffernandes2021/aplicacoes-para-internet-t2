@@ -35,4 +35,4 @@ Lembrem-se que esta atividade não é pontuada, no entanto, muito importante par
 
 Este fórum estará aberto, entre os dias: DD/MM à DD/MM.
 
-
+Vamos lá!
