@@ -18,7 +18,7 @@ Neste projeto, deves atentar-se às seguintes condições:
 5. O tipo de notícia e o esquema de cores é livre.
 6. Zipem os arquivos .html e .css e enviem. Nossa ideia aqui é compartilhar o conhecimento obtido com os outros alunos. Nomeiem o arquivo no formato rgm.zip.
 
-Para ajudá-los nesta empreitada deixo alguns links:
+Para ajudá-los nesta empreitada deixo os seguintes links:
 
 - **MDN Web Docs:**
   - Semantics: [**link**](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
