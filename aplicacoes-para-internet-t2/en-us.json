@@ -41,7 +41,8 @@
     "invite-title": "Black Poker: Invite",
     "invite-name": "Invite Players",
     "invite-description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
-    "invite-help-text": "Find out more in our help center",
+    "invite-help-text-1": "Find out more",
+    "invite-help-text-2": "in our help center",
     "invite-button-text": "Send Invitations",
     "invite-link-text": "Or, share this link:",
     "invite-button-copy-link": "Copy"    
