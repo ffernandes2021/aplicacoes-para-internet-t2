@@ -2,7 +2,7 @@
     "@metadata": {
         "authors": ["Fábio"],
         "last-updated": "2021-10-03",
-        "locale": "pt"
+        "locale": "pt-br"
     },    
     "hello": "Olá",
     "home": "Início",
