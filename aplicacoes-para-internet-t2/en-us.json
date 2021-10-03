@@ -2,7 +2,7 @@
     "@metadata": {
         "authors": ["Fábio"],
         "last-updated": "2021-10-02",
-        "language": "en-us"
+        "locale": "en-us"
     },  
     "teste": "Teste",  
     "black-menu": {
