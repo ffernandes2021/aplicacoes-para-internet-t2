@@ -1,7 +1,7 @@
 {
     "@metadata": {
         "authors": ["Fábio"],
-        "last-updated": "2021-11-15",
+        "last-updated": "2021-11-17",
         "locale": "pt-br"
     },  
     "index-title": "Black Poker",
@@ -49,9 +49,9 @@
     "index-line-8-pack-1-name": "Pacote Free",    
     "index-line-8-pack-2-name": "Pacote Standard",
     "index-line-8-pack-3-name": "Pacote Premium",
-    "index-line-8-bc-t1": "uma crypto própria para o seu jogo",
-    "index-line-8-bc-t2": "BLACK COIN",
-    "index-line-8-bc-t3": "Tenha a possibilidade de apostar nos seus jogos com uma cryptomoeda oficial da nossa plataforma. Clique no botão abaixo e adquira a sua!",
+    "index-line-8-bc-t1": "jogue Black Poker com nossa cryptomoeda",
+    "index-line-8-bc-t2": "BLACK POKER TOKEN",
+    "index-line-8-bc-t3": "Tenha a possibilidade de apostar nos seus jogos com uma cryptomoeda oficial da Black Poker. Clique no botão abaixo e tenha mais informações.",
     "index-line-8-bc-more": "Saiba Mais",        
     "index-line-10-text": "Todos os direitos reservados (2021)",
     "hello": "Olá",
