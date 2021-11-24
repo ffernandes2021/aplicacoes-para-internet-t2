@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="515px" preserveAspectRatio="none" style="width:590px;height:515px;background:#FFFFFF;" version="1.1" viewBox="0 0 590 515" width="590px" zoomAndPan="magnify"><defs><filter height="300%" id="f6g8v5xjdvtac" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[a02a2c85d289fdf60e396b79d01ab1db]
+cluster Advogado--><polygon fill="#FFFFFF" filter="url(#f6g8v5xjdvtac)" points="30,154,115,154,122,176.2969,216,176.2969,216,310,30,310,30,154" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="30" x2="122" y1="176.2969" y2="176.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="79" x="34" y="168.9951">Advogado</text><!--MD5=[945b1f9c868be3f3aea08e0aec430894]
+cluster Pergunta--><polygon fill="#FFFFFF" filter="url(#f6g8v5xjdvtac)" points="16,334,94,334,101,356.2969,230,356.2969,230,427,16,427,16,334" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="101" y1="356.2969" y2="356.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="72" x="20" y="348.9951">Pergunta</text><!--MD5=[52e11059ea0351adc87fd0021461bf5b]
+cluster Sala--><polygon fill="#FFFFFF" filter="url(#f6g8v5xjdvtac)" points="396.5,6,434.5,6,441.5,28.2969,563.5,28.2969,563.5,219,396.5,219,396.5,6" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="396.5" x2="441.5" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="32" x="400.5" y="20.9951">Sala</text><!--MD5=[013d70d16741779b6fb94ed761a6f972]
+cluster Artigo--><polygon fill="#FFFFFF" filter="url(#f6g8v5xjdvtac)" points="387,243,441,243,448,265.2969,573,265.2969,573,399,387,399,387,243" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="387" x2="448" y1="265.2969" y2="265.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="48" x="391" y="257.9951">Artigo</text><!--MD5=[bc0a963721474366840cd59b0732dd2f]
+cluster Plano--><polygon fill="#FFFFFF" filter="url(#f6g8v5xjdvtac)" points="390.5,423,439.5,423,446.5,445.2969,569.5,445.2969,569.5,508,390.5,508,390.5,423" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="390.5" x2="446.5" y1="445.2969" y2="445.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="43" x="394.5" y="437.9951">Plano</text><ellipse cx="122.8343" cy="206.1669" fill="#FEFECE" filter="url(#f6g8v5xjdvtac)" rx="73.8343" ry="17.1669" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="103" x="68.3343" y="209.9144">Criar advogado</text><ellipse cx="122.9563" cy="275.7913" fill="#FEFECE" filter="url(#f6g8v5xjdvtac)" rx="76.9563" ry="17.7913" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="64.5675" y="279.5101">Editar advogado</text><ellipse cx="122.9996" cy="390.0999" fill="#FEFECE" filter="url(#f6g8v5xjdvtac)" rx="90.9996" ry="20.5999" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="144" x="50.9996" y="392.9466">Responder pergunta</text><ellipse cx="479.8333" cy="56.2455" fill="#FEFECE" filter="url(#f6g8v5xjdvtac)" rx="56.3333" ry="14.7455" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="445.8333" y="59.9931">Criar sala</text><ellipse cx="480.0868" cy="120.8174" fill="#FEFECE" filter="url(#f6g8v5xjdvtac)" rx="62.0868" ry="14.8174" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="442.0868" y="124.5649">Editar sala</text><ellipse cx="480.0233" cy="186.9047" fill="#FEFECE" filter="url(#f6g8v5xjdvtac)" rx="67.5233" ry="15.9047" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="434.0233" y="190.6522">Acessar sala</text><ellipse cx="480.0529" cy="295.2106" fill="#FEFECE" filter="url(#f6g8v5xjdvtac)" rx="71.5529" ry="16.7106" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="97" x="428.5529" y="298.9581">Publicar artigo</text><ellipse cx="479.9563" cy="364.7913" fill="#FEFECE" filter="url(#f6g8v5xjdvtac)" rx="76.9563" ry="17.7913" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="421.5675" y="368.5101">Pesquisar artigo</text><ellipse cx="479.9504" cy="475.0901" fill="#FEFECE" filter="url(#f6g8v5xjdvtac)" rx="73.4504" ry="17.0901" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="425.9504" y="478.8376">Escolher plano</text><ellipse cx="122.964" cy="122.1928" fill="#FEFECE" filter="url(#f6g8v5xjdvtac)" rx="68.964" ry="16.1928" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="74.964" y="125.9404">Gerar extrato</text><!--MD5=[e2467f5f4384106b775860ee09f7fdf8]
+entity advogado--><ellipse cx="308.5" cy="210" fill="#FEFECE" filter="url(#f6g8v5xjdvtac)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><path d="M308.5,218 L308.5,245 M295.5,226 L321.5,226 M308.5,245 L295.5,260 M308.5,245 L321.5,260 " fill="none" filter="url(#f6g8v5xjdvtac)" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="274" y="278.4951">Advogado</text><!--MD5=[73625df441579db71a3bac9d0dbf3cc4]
+link criarAdvogado to advogado--><path d="M180.55,216.79 C211.09,222.61 247.76,229.61 273.82,234.58 " fill="none" id="criarAdvogado-advogado" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[f91026bbfff36d30a8f3e2ce3d748611]
+link editarAdvogado to advogado--><path d="M183.07,264.73 C213.14,259 248.6,252.24 273.95,247.4 " fill="none" id="editarAdvogado-advogado" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[185290eaa0b7fad2a6572a94a11a8145]
+link responderPergunta to advogado--><path d="M154.55,370.61 C178.11,355.18 211.11,332.5 238,310 C250.26,299.74 262.88,287.71 273.95,276.6 " fill="none" id="responderPergunta-advogado" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[c98c62fdaf6cc0a28b99178671411184]
+link advogado to criarSala--><path d="M318.19,200.36 C327.58,165.89 345.87,117.48 379,88 C393.23,75.34 412.51,67.68 430.34,63.05 " fill="none" id="advogado-criarSala" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[adb9c8f7d71e4ab10374c2c841e1cb0b]
+link advogado to editarSala--><path d="M334.04,200.13 C345.81,183.49 361.24,165.31 379,153 C394.36,142.36 413.45,135.11 430.82,130.24 " fill="none" id="advogado-editarSala" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[4474155d558579a587adb1dcc3adbfdf]
+link advogado to acessarSala--><path d="M343.39,230.2 C370.93,221.43 409.83,209.04 438.91,199.77 " fill="none" id="advogado-acessarSala" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[42d354e104fa47f36928f65045f1e092]
+link advogado to publicarArtigo--><path d="M343.39,251.8 C370.44,260.42 408.46,272.53 437.37,281.74 " fill="none" id="advogado-publicarArtigo" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[a04137e8b0acc66c4fd8cf788183ab40]
+link advogado to pesquisarArtigo--><path d="M334.25,281.56 C346.07,298.15 361.46,316.38 379,329 C393,339.08 410.12,346.6 426.2,352.08 " fill="none" id="advogado-pesquisarArtigo" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[a53821c3cbc3ba3db77875d3bdbe1ac3]
+link advogado to escolherPlano--><path d="M321.06,281.68 C332.09,315.52 351.17,363.7 379,399 C398.85,424.17 428.87,445.49 450.85,459.09 " fill="none" id="advogado-escolherPlano" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[9292b9128f203844ebb2acdc56225f5b]
+link gerarExtrato to advogado--><path d="M162.2,135.17 C185.22,144.04 214.52,157.02 238,173 C250.7,181.64 263.15,192.73 273.93,203.44 " fill="none" id="gerarExtrato-advogado" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[3f429a2ef6d4a693d8eb0c1524e7d95e]
+@startuml advogado
+
+left to right direction
+
+package Advogado {
+    usecase "Criar advogado" as criarAdvogado
+    usecase "Editar advogado" as editarAdvogado
+}
+
+package Pergunta {
+    usecase "Responder pergunta" as responderPergunta
+}
+
+package Sala {
+    usecase "Criar sala" as criarSala
+    usecase "Editar sala" as editarSala
+    usecase "Acessar sala" as acessarSala
+}
+
+package Artigo {
+    usecase "Publicar artigo" as publicarArtigo
+    usecase "Pesquisar artigo" as pesquisarArtigo    
+}
+
+package Plano {
+    usecase "Escolher plano" as escolherPlano
+}
+
+usecase "Gerar extrato" as gerarExtrato
+
+actor "Advogado" as advogado
+
+criarAdvogado - - advogado
+editarAdvogado - - advogado
+responderPergunta - - advogado
+advogado - - criarSala
+advogado - - editarSala
+advogado - - acessarSala
+advogado - - publicarArtigo
+advogado - - pesquisarArtigo
+advogado - - escolherPlano
+gerarExtrato - - advogado
+
+@enduml
+
+PlantUML version 1.2021.14(Fri Nov 12 13:46:50 BRT 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: pt
+Country: BR
+--></g></svg>
